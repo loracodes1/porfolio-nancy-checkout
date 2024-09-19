@@ -12,5 +12,17 @@ body{
     color: white;
 }
 .container{
-    
+    width: 80%;
+    max-width: 1200px;
+    margin:0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+#navbar .nav-list{
+    list-style: none;
+
+}
+.nav-link{
+    margin: ;
 }
